@@ -51,6 +51,7 @@ This project leverages a variety of technologies, libraries, and frameworks:
   - TensorFlow Estimator: 2.13.0 (via PyPI)
   - TensorFlow for macOS: 2.13.0 (via PyPI)
   - TensorFlow Metal: 1.0.1 (for GPU acceleration on macOS, via PyPI)
+  - keras: 2.13.1
 - **NLTK**: 3.8.1
 - **Beautiful Soup**: 4.12.3
 - **WordCloud**: 1.9.2
