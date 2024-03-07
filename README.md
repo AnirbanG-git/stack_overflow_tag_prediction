@@ -1,6 +1,22 @@
 # Project Name
 **Multiclass Multilabel Prediction for Stack Overflow Questions**
 
+## Table of Contents
+* [General Information](#general-information)
+  * [Overview](#overview)
+  * [Dataset](#dataset)
+  * [Objective](#objective)
+  * [Methodology](#methodology)
+* [Technologies Used](#technologies-used)
+  * [Key Libraries and Their Roles](#key-libraries-and-their-roles)
+    * [Natural Language Processing (NLP) Libraries](#natural-language-processing-nlp-libraries)
+    * [Machine Learning and Deep Learning Libraries](#machine-learning-and-deep-learning-libraries)
+    * [Data Visualization Libraries](#data-visualization-libraries)
+* [Conclusions](#conclusions)
+* [Project Files](#project-files)
+* [Future Work](#future-work)
+* [Contact](#contact)
+
 ## General Information
 
 ### Overview
