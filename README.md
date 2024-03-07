@@ -1,5 +1,4 @@
-# Project Name
-**Multiclass Multilabel Prediction for Stack Overflow Questions**
+# Multiclass Multilabel Prediction for Stack Overflow Questions
 
 ## Table of Contents
 * [General Information](#general-information)
